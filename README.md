@@ -44,7 +44,7 @@ The extracted hash was saved in a file named `hash1.txt`.
 
 📸 **Screenshot:**
 
-[View Extracted PDF Hash](screenshots/PM1/Hash-Extract.png)
+![Hash Extraction](screenshots/PM1/Hash-Extract.png)
 
 **Step 2: Configure Johnny**
 
@@ -52,8 +52,8 @@ Opened Johnny, the graphical interface of John the Ripper, configured the John e
 
 📸 **Screenshot:**
 
-[View Johnny Configuration](screenshots/PM1/JTR-PM1-Setup.png)
 
+![Johnny Configuration](screenshots/PM1/JTR-PM1-Setup.png)
 **Step 3: Perform Password Cracking**
 
 Started the password-cracking process using Johnny.
@@ -71,7 +71,7 @@ The tool successfully recovered the password.
 
 📸 **Screenshot:**
 
-[View JTR Cracking Result](screenshots/PM1/JTR-PM1.png)
+![JTR Password Cracking Result](screenshots/PM1/JTR-PM1.png)
 
 **Step 4: Verify the Password**
 
@@ -79,7 +79,7 @@ Opened the protected PDF using the recovered password to confirm that the passwo
 
 📸 **Screenshot:**
 
-[View Unlocked PDF](screenshots/PM1/W3-PM1-file-unlocked.png)
+![Unlocked PDF](screenshots/PM1/W3-PM1-file-unlocked.png)
 
 ### ✅ PM1 Result
 
@@ -108,7 +108,7 @@ The tool extracted the PDF password hash in `$pdf$...` format.
 
 📸 **Screenshot:**
 
-[View Hash Calculator Result](screenshots/PM2/Hash-Calculator.png)
+![Hash Calculator](screenshots/PM2/Hash-Calculator.png)
 
 **Step 2: Perform Dictionary Attack**
 
@@ -127,7 +127,7 @@ The tool successfully recovered the password.
 
 📸 **Screenshot:**
 
-[View Password Cracker Result](screenshots/PM2/Cracked.png)
+![Password Cracker Result](screenshots/PM2/Cracked.png)
 
 **Step 3: Verify the Password**
 
@@ -135,7 +135,7 @@ Used the recovered password to open the protected PDF and confirmed that the fil
 
 📸 **Screenshot:**
 
-[View Unlocked PDF](screenshots/PM2/W3-PM2-File-Unlocked.png)
+![Unlocked PDF](screenshots/PM2/W3-PM2-File-Unlocked.png)
 
 ### ✅ PM2 Result
 
