@@ -141,15 +141,7 @@ Used the recovered password to open the protected PDF and confirmed that the fil
 
 Successfully recovered and verified the PDF password using the Networkwalks online password-cracking tools.
 
----
 
-# 🎥 Project Demonstration
-
-A single demonstration video covers both practical modules, including hash extraction, password cracking, and PDF verification.
-
-▶️ **[Watch WK3-PM1-PM2 Demonstration Video](WK3-PM1-PM2-demo.mp4)**
-
----
 
 # 📊 Comparison: PM1 vs PM2
 
@@ -182,40 +174,6 @@ Weak and predictable passwords can be recovered quickly using publicly available
 
 Using long, unique, and complex passwords helps improve security and reduces the risk of unauthorized access.
 
----
-
-# 📁 Repository Structure
-
-```text
-NETWORKWALKS-IFEANYI-B084-WK3-PM1-PM2-PASSWORD-CRACKING/
-│
-├── screenshots/
-│   ├── PM1/
-│   │   ├── Hash-Extract.png
-│   │   ├── JTR-PM1-Setup.png
-│   │   ├── JTR-PM1.png
-│   │   └── W3-PM1-file-unlocked.png
-│   │
-│   └── PM2/
-│       ├── Hash-Calculator.png
-│       ├── Cracked.png
-│       └── W3-PM2-File-Unlocked.png
-│
-├── WK3-PM1-PM2-demo.mp4
-└── README.md
-```
-
----
-
-# 👨‍💻 Internship Information
-
-**Program:** Networkwalks Cybersecurity Internship  
-**Batch:** B084  
-**Intern:** Aryan Govekar  
-**Week:** 3  
-**Modules:** Project Module 1 & Project Module 2
-
----
 
 ### ⚠️ Disclaimer
 
